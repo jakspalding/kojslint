@@ -18,7 +18,7 @@ FEATURES
 - profiles can be locked (it can't be changed/deleted until unlocked)
 - auto-fix some common jslint warnings
 - all jslint warnings on the same line are grouped in the "JSLint errors" output tab
-- bundled with JSLint 2011-10-07
+- bundled with JSLint 2011-10-13
 
 AutoFix
 -------

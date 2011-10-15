@@ -7,7 +7,7 @@
     <r:Seq>
       <r:li>
         <r:Description>
-          <version>2.6.20111007</version>
+          <version>2.6.20111013</version>
           <targetApplication>
             <r:Description> <!-- Komodo Edit -->
               <id>{b1042fb5-9e9c-11db-b107-000d935d3368}</id>
@@ -28,7 +28,7 @@
       </r:li>
     </r:Seq>
   </updates>
-  <version>2.6.20111007</version>
+  <version>2.6.20111013</version>
   <updateLink>https://github.com/jakspalding/kojslint/raw/master/kojslint.xpi</updateLink>
 </r:Description>
 </r:RDF>
